@@ -1,0 +1,9 @@
+*.log
+*.tmp
+.DS_Store
+.env
+.fleet
+.idea
+.secrets
+.vscode
+tmp
